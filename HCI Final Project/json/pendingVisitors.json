@@ -1,0 +1,127 @@
+{  
+  "pendingVisitors": [  
+    {  
+      "First Name": "Enrisen",  
+      "Last Name": "Tzib",  
+      "ID": "V001",  
+      "Room #": "A101",  
+      "Phone #": "111-222-3333",  
+      "Email": "alice.johnson@example.com",  
+      "Vehicle": "Yes",  
+      "Vehicle Plate": "AAA111",  
+      "Reason": "Visiting John Doe",  
+      "Date In": "2024-11-17",  
+      "Date Out": "2024-11-17",  
+      "QR Code ID": "QR001"  
+    },  
+    {  
+      "First Name": "Brian",  
+      "Last Name": "Smith",  
+      "ID": "V002",  
+      "Room #": "B202",  
+      "Phone #": "222-333-4444",  
+      "Email": "brian.smith@example.com",   
+      "Vehicle": "No",  
+      "Reason": "Visiting Jane Smith",  
+      "Date In": "2024-11-17",  
+      "Date Out": "2024-11-17",  
+      "QR Code ID": "QR002"  
+    },  
+    {  
+      "First Name": "Catherine",  
+      "Last Name": "Lee",  
+      "ID": "V003",  
+      "Room #": "C303",  
+      "Phone #": "333-444-5555",  
+      "Email": "catherine.lee@example.com",    
+      "Vehicle": "Yes",  
+      "Vehicle Plate": "BBB222",  
+      "Reason": "Visiting Michael Johnson",  
+      "Date In": "2024-11-17",  
+      "Date Out": "2024-11-17",  
+      "QR Code ID": "QR003"  
+    },  
+    {  
+      "First Name": "David",  
+      "Last Name": "Miller",  
+      "ID": "V004",  
+      "Room #": "D404",  
+      "Phone #": "444-555-6666",  
+      "Email": "david.miller@example.com",   
+      "Vehicle": "No",  
+      "Reason": "Visiting Emily Davis",  
+      "Date In": "2024-11-17",  
+      "Date Out": "2024-11-17",  
+      "QR Code ID": "QR004"  
+    },  
+    {  
+      "First Name": "Eva",  
+      "Last Name": "Garcia",  
+      "ID": "V005",  
+      "Room #": "E505",  
+      "Phone #": "555-666-7777",  
+      "Email": "eva.garcia@example.com",   
+      "Vehicle": "Yes",  
+      "Vehicle Plate": "CCC333",  
+      "Reason": "Visiting David Brown",  
+      "Date In": "2024-11-17",  
+      "Date Out": "2024-11-17",  
+      "QR Code ID": "QR005"  
+    },  
+    {  
+      "First Name": "Frank",  
+      "Last Name": "Wilson",  
+      "ID": "V006",  
+      "Room #": "F606",  
+      "Phone #": "666-777-8888",  
+      "Email": "frank.wilson@example.com",   
+      "Vehicle": "No",  
+      "Reason": "Visiting Sophia Wilson",  
+      "Date In": "2024-11-17",  
+      "Date Out": "2024-11-17",  
+      "QR Code ID": "QR006"  
+    },  
+    {  
+      "First Name": "Grace",  
+      "Last Name": "Martinez",  
+      "ID": "V007",  
+      "Room #": "G707",  
+      "Phone #": "777-888-9999",  
+      "Email": "grace.martinez@example.com",   
+      "Vehicle": "Yes",  
+      "Vehicle Plate": "DDD444",  
+      "Reason": "Visiting James Martinez",  
+      "Date In": "2024-11-17",  
+      "Date Out": "2024-11-17",  
+      "QR Code ID": "QR007"  
+    },  
+    {  
+      "First Name": "Henry",  
+      "Last Name": "Rodriguez",  
+      "ID": "V008",  
+      "Room #": "H808",  
+      "Phone #": "888-999-0000",  
+      "Email": "henry.rodriguez@example.com",   
+      "Vehicle": "No",  
+      "Reason": "Visiting Linda Garcia",  
+      "Date In": "2024-11-17",  
+      "Date Out": "2024-11-17",  
+      "QR Code ID": "QR008"  
+    },  
+    {  
+      "First Name": "Isabella",  
+      "Last Name": "Hernandez",  
+      "ID": "V009",  
+      "Room #": "I909",  
+      "Phone #": "999-000-1111",  
+      "Email": "isabella.hernandez@example.com",    
+      "Vehicle": "Yes",  
+      "Vehicle Plate": "EEE555",  
+      "Reason": "Visiting Robert Rodriguez",  
+      "Date In": "2024-11-17",  
+      "Date Out": "2024-11-17",  
+      "QR Code ID": "QR009"  
+    }
+   
+]
+}

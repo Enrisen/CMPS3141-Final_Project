@@ -1,0 +1,235 @@
+{  
+  "Residents": [  
+    {  
+      "First Name": "John",  
+      "Last Name": "Doe",  
+      "ID": "001",  
+      "Room #": "A101",  
+      "Phone #": "123-456-7890",  
+      "Email": "john.doe@example.com",  
+      "Username": "john_doe",  
+      "Vehicle": "Yes",  
+      "Vehicle Plate": "ABC123",  
+      "Password": "Jdoe2024!"  
+    },  
+    {  
+      "First Name": "Jane",  
+      "Last Name": "Smith",  
+      "ID": "002",  
+      "Room #": "B202",  
+      "Phone #": "234-567-8901",  
+      "Email": "jane.smith@example.com",  
+      "Username": "jane_smith",  
+      "Vehicle": "No",  
+      "Password": "Jsmith2024!"  
+    },  
+    {  
+      "First Name": "Michael",  
+      "Last Name": "Johnson",  
+      "ID": "003",  
+      "Room #": "C303",  
+      "Phone #": "345-678-9012",  
+      "Email": "michael.johnson@example.com",  
+      "Username": "michael_j",  
+      "Vehicle": "Yes",  
+      "Vehicle Plate": "XYZ789",  
+      "Password": "Mjohnson2024!"  
+    },  
+    {  
+      "First Name": "Emily",  
+      "Last Name": "Davis",  
+      "ID": "004",  
+      "Room #": "D404",  
+      "Phone #": "456-789-0123",  
+      "Email": "emily.davis@example.com",  
+      "Username": "emily_d",  
+      "Vehicle": "No",  
+      "Password": "Edavis2024!"  
+    },  
+    {  
+      "First Name": "David",  
+      "Last Name": "Brown",  
+      "ID": "005",  
+      "Room #": "E505",  
+      "Phone #": "567-890-1234",  
+      "Email": "david.brown@example.com",  
+      "Username": "david_b",  
+      "Vehicle": "Yes",  
+      "Vehicle Plate": "LMN456",  
+      "Password": "Dbrown2024!"  
+    },  
+    {  
+      "First Name": "Sophia",  
+      "Last Name": "Wilson",  
+      "ID": "006",  
+      "Room #": "F606",  
+      "Phone #": "678-901-2345",  
+      "Email": "sophia.wilson@example.com",  
+      "Username": "sophia_w",  
+      "Vehicle": "No",  
+      "Password": "Swilson2024!"  
+    },  
+    {  
+      "First Name": "James",  
+      "Last Name": "Martinez",  
+      "ID": "007",  
+      "Room #": "G707",  
+      "Phone #": "789-012-3456",  
+      "Email": "james.martinez@example.com",  
+      "Username": "james_m",  
+      "Vehicle": "Yes",  
+      "Vehicle Plate": "QRS123",  
+      "Password": "Jmartinez2024!"  
+    },  
+    {  
+      "First Name": "Linda",  
+      "Last Name": "Garcia",  
+      "ID": "008",  
+      "Room #": "H808",  
+      "Phone #": "890-123-4567",  
+      "Email": "linda.garcia@example.com",  
+      "Username": "linda_g",  
+      "Vehicle": "No",  
+      "Password": "Lgarcia2024!"  
+    },  
+    {  
+      "First Name": "Robert",  
+      "Last Name": "Rodriguez",  
+      "ID": "009",  
+      "Room #": "I909",  
+      "Phone #": "901-234-5678",  
+      "Email": "robert.rodriguez@example.com",  
+      "Username": "robert_r",  
+      "Vehicle": "Yes",  
+      "Vehicle Plate": "TUV456",  
+      "Password": "Rrodriguez2024!"  
+    },  
+    {  
+      "First Name": "Barbara",  
+      "Last Name": "Martinez",  
+      "ID": "010",  
+      "Room #": "J101",  
+      "Phone #": "012-345-6789",  
+      "Email": "barbara.martinez@example.com",  
+      "Username": "barbara_m",  
+      "Vehicle": "No",  
+      "Password": "Bmartinez2024!"  
+    },  
+    {  
+      "First Name": "Charles",  
+      "Last Name": "Hernandez",  
+      "ID": "011",  
+      "Room #": "K202",  
+      "Phone #": "123-456-7891",  
+      "Email": "charles.hernandez@example.com",  
+      "Username": "charles_h",  
+      "Vehicle": "Yes",  
+      "Vehicle Plate": "WXY789",  
+      "Password": "Chernandez2024!"  
+    },  
+    {  
+      "First Name": "Susan",  
+      "Last Name": "Lopez",  
+      "ID": "012",  
+      "Room #": "L303",  
+      "Phone #": "234-567-8902",  
+      "Email": "susan.lopez@example.com",  
+      "Username": "susan_l",  
+      "Vehicle": "No",  
+      "Password": "Slopez2024!"  
+    },  
+    {  
+      "First Name": "Paul",  
+      "Last Name": "Gonzalez",  
+      "ID": "013",  
+      "Room #": "M404",  
+      "Phone #": "345-678-9013",  
+      "Email": "paul.gonzalez@example.com",  
+      "Username": "paul_g",  
+      "Vehicle": "Yes",  
+      "Vehicle Plate": "ZAB123",  
+      "Password": "Pgonzalez2024!"  
+    },  
+ {
+        "First Name": "Nancy",
+        "Last Name": "Perez",
+        "ID": "014",
+        "Room #": "N505",
+        "Phone #": "456-789-0124",
+        "Email": "nancy.perez@example.com",
+        "Username": "nancy_p",
+        "Vehicle": "No",
+        "Password": "Nperez2024!"
+      },
+      {
+        "First Name": "Daniel",
+        "Last Name": "Thomas",
+        "ID": "015",
+        "Room #": "O606",
+        "Phone #": "567-890-1235",
+        "Email": "daniel.thomas@example.com",
+        "Username": "daniel_t",
+        "Vehicle": "Yes",
+        "Vehicle Plate": "CDE456",
+        "Password": "Dthomas2024!"
+      },
+      {
+        "First Name": "Lisa",
+        "Last Name": "Taylor",
+        "ID": "016",
+        "Room #": "P707",
+        "Phone #": "678-901-2346",
+        "Email": "lisa.taylor@example.com",
+        "Username": "lisa_t",
+        "Vehicle": "No",
+        "Password": "Ltaylor2024!"
+      },
+      {
+        "First Name": "Matthew",
+        "Last Name": "Anderson",
+        "ID": "017",
+        "Room #": "Q808",
+        "Phone #": "789-012-3457",
+        "Email": "matthew.anderson@example.com",
+        "Username": "matthew_a",
+        "Vehicle": "Yes",
+        "Vehicle Plate": "FGH789",
+        "Password": "Manderson2024!"
+      },
+      {
+        "First Name": "Karen",
+        "Last Name": "Moore",
+        "ID": "018",
+        "Room #": "R909",
+        "Phone #": "890-123-4568",
+        "Email": "karen.moore@example.com",
+        "Username": "karen_m",
+        "Vehicle": "No",
+        "Password": "Kmoore2024!"
+      },
+      {
+        "First Name": "Joseph",
+        "Last Name": "Jackson",
+        "ID": "019",
+        "Room #": "S101",
+        "Phone #": "901-234-5679",
+        "Email": "joseph.jackson@example.com",
+        "Username": "joseph_j",
+        "Vehicle": "Yes",
+        "Vehicle Plate": "IJK123",
+        "Password": "Jjackson2024!"
+      },
+      {
+        "First Name": "Betty",
+        "Last Name": "Harris",
+        "ID": "020",
+        "Room #": "T202",
+        "Phone #": "012-345-6790",
+        "Email": "betty.harris@example.com",
+        "Username": "betty_h",
+        "Vehicle": "No",
+        "Password": "Bharris2024!"
+      }
+    ]
+  }
+  

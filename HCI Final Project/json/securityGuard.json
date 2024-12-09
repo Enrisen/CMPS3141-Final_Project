@@ -1,0 +1,26 @@
+{  
+  "SecurityGuards": [  
+    {  
+      "First Name": "James",  
+      "Last Name": "Davis",  
+      "ID": "SG001",  
+      "Room #": "Guard1",  
+      "Phone #": "555-123-4567",  
+      "Email": "james.davis@example.com",  
+      "Username": "james_d",  
+      "Password": "GuardPass123",  
+      "Shift": "Night"  
+    },  
+    {  
+      "First Name": "Olivia",  
+      "Last Name": "Taylor",  
+      "ID": "SG002",  
+      "Room #": "Guard2",  
+      "Phone #": "555-987-6543",  
+      "Email": "olivia.taylor@example.com",  
+      "Username": "olivia_t",  
+      "Password": "SecurePass456",  
+      "Shift": "Day"  
+    }  
+  ]  
+}

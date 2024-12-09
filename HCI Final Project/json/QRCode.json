@@ -1,0 +1,49 @@
+{  
+  "QRCode": [  
+    {  
+      "QR Code ID": "QR001",  
+      "Reason for Visiting": "Visiting John Doe",  
+      "Scanned": false  
+    },  
+    {  
+      "QR Code ID": "QR002",  
+      "Reason for Visiting": "Visiting Jane Smith",  
+      "Scanned": false  
+    },  
+    {  
+      "QR Code ID": "QR003",  
+      "Reason for Visiting": "Visiting Michael Johnson",  
+      "Scanned": false  
+    },  
+    {  
+      "QR Code ID": "QR004",  
+      "Reason for Visiting": "Visiting Emily Davis",  
+      "Scanned": false  
+    },  
+    {  
+      "QR Code ID": "QR005",  
+      "Reason for Visiting": "Visiting David Brown",  
+      "Scanned": false  
+    },  
+    {  
+      "QR Code ID": "QR006",  
+      "Reason for Visiting": "Visiting Sophia Wilson",  
+      "Scanned": false  
+    },  
+    {  
+      "QR Code ID": "QR007",  
+      "Reason for Visiting": "Visiting James Martinez",  
+      "Scanned": false  
+    },  
+    {  
+      "QR Code ID": "QR008",  
+      "Reason for Visiting": "Visiting Linda Garcia",  
+      "Scanned": false  
+    },  
+    {  
+      "QR Code ID": "QR009",  
+      "Reason for Visiting": "Visiting Robert Rodriguez",  
+      "Scanned": false  
+    } 
+  ]  
+}

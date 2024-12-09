@@ -1,0 +1,72 @@
+:root {
+    --primary: #2563eb;
+    --secondary: #64748b;
+    --success: #22c55e;
+    --background: #f8fafc;
+    --surface: #ffffff;
+}
+
+body {
+    background: var(--background);
+    min-height: 100vh;
+    padding-bottom: 80px;
+}
+
+.navbar {
+    background: var(--surface);
+    box-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1);
+}
+
+.search-container {
+    max-width: 500px;
+    margin: 2rem auto;
+}
+
+.visitor-card {
+    background: var(--surface);
+    border-radius: 8px;
+    box-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    cursor: pointer;
+}
+
+.visitor-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+}
+
+.scan-qr-btn {
+    position: fixed;
+    bottom: 2rem;
+    right: 2rem;
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+    background: var(--primary);
+    color: white;
+    box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+    border: none;
+    transition: transform 0.2s ease;
+}
+
+.scan-qr-btn:hover {
+    transform: scale(1.05);
+}
+
+.profile-dropdown {
+    cursor: pointer;
+}
+
+.badge-active {
+    background-color: var(--success);
+    color: white;
+}
+
+#visitorModal .modal-header {
+    background: var(--primary);
+    color: white;
+}
+
+.search-highlight {
+    background-color: yellow;
+}

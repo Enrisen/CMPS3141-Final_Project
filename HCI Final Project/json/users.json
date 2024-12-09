@@ -1,0 +1,134 @@
+{
+    "users": [
+        {
+            "username": "david_w",
+            "password": "Dwilson2024!",
+            "role": "Administrator"
+        },
+        {
+            "username": "emily_c",
+            "password": "Eclark2024!",
+            "role": "Administrator"
+        },
+        {
+            "username": "michael_s",
+            "password": "Smart2024!",
+            "role": "Administrator"
+        },
+        {
+            "username": "sophia_m",
+            "password": "Smoore2024!",
+            "role": "Administrator"
+        },
+        {
+            "username": "james_d",
+            "password": "GuardPass123",
+            "role": "Security Guard"
+        },
+        {
+            "username": "olivia_t",
+            "password": "SecurePass456",
+            "role": "Security Guard"
+        },
+        {
+            "username": "john_doe",
+            "password": "Jdoe2024!",
+            "role": "Resident"
+        },
+        {
+            "username": "jane_smith",
+            "password": "Jsmith2024!",
+            "role": "Resident"
+        },
+        {
+            "username": "michael_j",
+            "password": "Mjohnson2024!",
+            "role": "Resident"
+        },
+        {
+            "username": "emily_d",
+            "password": "Edavis2024!",
+            "role": "Resident"
+        },
+        {  
+      "Username": "david_b",  
+      "Password": "Dbrown2024!",  
+      "Role": "Resident"  
+    },  
+    {  
+      "Username": "sophia_w",  
+      "Password": "Swilson2024!",  
+      "Role": "Resident"  
+    },  
+    {  
+      "Username": "james_m",  
+      "Password": "Jmartinez2024!",  
+      "Role": "Resident"  
+    },  
+    {  
+      "Username": "linda_g",  
+      "Password": "Lgarcia2024!",  
+      "Role": "Resident"  
+    },  
+    {  
+      "Username": "robert_r",  
+      "Password": "Rrodriguez2024!",  
+      "Role": "Resident"  
+    },  
+    {  
+      "Username": "barbara_m",  
+      "Password": "Bmartinez2024!",  
+      "Role": "Resident"  
+    },  
+    {  
+      "Username": "charles_h",  
+      "Password": "Chernandez2024!",  
+      "Role": "Resident"  
+    },  
+    {  
+      "Username": "susan_l",  
+      "Password": "Slopez2024!",  
+      "Role": "Resident"  
+    },  
+    {  
+      "Username": "paul_g",  
+      "Password": "Pgonzalez2024!",  
+      "Role": "Resident"  
+    },  
+    {  
+      "Username": "nancy_p",  
+      "Password": "Nperez2024!",  
+      "Role": "Resident"  
+    },  
+    {  
+      "Username": "daniel_t",  
+      "Password": "Dthomas2024!",  
+      "Role": "Resident"  
+    },  
+    {  
+      "Username": "lisa_t",  
+      "Password": "Ltaylor2024!",  
+      "Role": "Resident"  
+    },  
+    {  
+      "Username": "matthew_a",  
+      "Password": "Manderson2024!",  
+      "Role": "Resident"  
+    },  
+    {  
+      "Username": "karen_m",  
+      "Password": "Kmoore2024!",  
+      "Role": "Resident"  
+    },  
+    {  
+      "Username": "joseph_j",  
+      "Password": "Jjackson2024!",  
+      "Role": "Resident"  
+    },  
+    {  
+      "Username": "betty_h",  
+      "Password": "Bharris2024!",  
+      "Role": "Resident"  
+    }  
+    ]
+}

@@ -1,0 +1,52 @@
+{  
+  "Administrators": [  
+    {  
+      "First Name": "David",  
+      "Last Name": "Wilson",  
+      "ID": "A001",  
+      "Room #": "Admin1",  
+      "Phone #": "123-456-7890",  
+      "Email": "david.wilson@example.com",  
+      "Username": "david_w",  
+      "Role": "Manager",  
+      "Date Hired": "2020-05-10",  
+      "Password": "Dwilson2024!" 
+    },  
+    {  
+      "First Name": "Emily",  
+      "Last Name": "Clark",  
+      "ID": "A002",  
+      "Room #": "Admin2",  
+      "Phone #": "234-567-8901",  
+      "Email": "emily.clark@example.com",  
+      "Username": "emily_c",  
+      "Role": "Assistant Manager",  
+      "Date Hired": "2021-08-15",  
+      "Password": "Eclark2024!"  
+    },  
+    {  
+      "First Name": "Michael",  
+      "Last Name": "Smith",  
+      "ID": "A003",  
+      "Room #": "Admin3",  
+      "Phone #": "345-678-9012",  
+      "Email": "michael.smith@example.com",  
+      "Username": "michael_s",  
+      "Role": "Facilities Coordinator",  
+      "Date Hired": "2019-03-22",  
+      "Password": "Msmith2024!"  
+    },  
+    {  
+      "First Name": "Sophia",  
+      "Last Name": "Moore",  
+      "ID": "A004",  
+      "Room #": "Admin4",  
+      "Phone #": "456-789-0123",  
+      "Email": "sophia.moore@example.com",  
+      "Username": "sophia_m",  
+      "Role": "Resident Liaison",  
+      "Date Hired": "2022-11-01", 
+      "Password": "Smoore2024!" 
+    }  
+  ]  
+}
